@@ -2,7 +2,7 @@
 
 ## My feature branch changes
 
-Here I change for branch. Here I make another change.
+Here I change for branch. Here I make another change. And another one.
 
 ## Git Conflict Resolve Test
 
